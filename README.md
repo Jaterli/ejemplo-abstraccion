@@ -22,7 +22,7 @@ Para ejecutar este proyecto, sigue los siguientes pasos:
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/tuusuario/ejemplo-abstraccion.git
+    git clone https://github.com/Jaterli/ejemplo-abstraccion.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
